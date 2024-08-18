@@ -16,7 +16,7 @@ function added(number1, number2){
 const results = added( 84, 4 );
 console.log(results);
 
-// find undefine value
+//if you find undefined value
 const premil = { name:"jhon", phone: "4453543"};
 console.log(premil.gf);
 
