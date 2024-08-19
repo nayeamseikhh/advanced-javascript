@@ -5,7 +5,7 @@ const students = [
     {id: 27, name: "rajib ali"},
     {id: 28, name: "sogib ali"},
 ];
-const allName = [];
+// const allName = [];
 
 // for (let i = 0; i < students.length; i++) {
 //     let element = students[i];
